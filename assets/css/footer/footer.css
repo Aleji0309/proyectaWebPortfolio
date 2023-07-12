@@ -1,0 +1,11 @@
+.footer {
+    padding: 2rem;
+    text-align: center;
+    background-color: var(--color-quinto);
+}
+
+.footer__rodape p {
+    color: var(--color-cuarto);
+}
+
+ 

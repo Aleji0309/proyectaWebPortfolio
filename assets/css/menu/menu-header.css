@@ -1,0 +1,10 @@
+.menu__header img {
+    max-width: 100%;
+    height: 8rem;
+}
+
+@media (max-width: 425px) {
+    .menu__header img {
+        height: 2rem;
+    }
+}
