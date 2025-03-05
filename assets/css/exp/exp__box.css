@@ -12,7 +12,10 @@
 .experiencie__box:nth-child(11),
 .experiencie__box:nth-child(13),
 .experiencie__box:nth-child(15),
-.experiencie__box:nth-child(17) {
+.experiencie__box:nth-child(17),
+.experiencie__box:nth-child(19),
+.experiencie__box:nth-child(21),
+.experiencie__box:nth-child(23) {
     flex-direction: row-reverse;
 }
 
