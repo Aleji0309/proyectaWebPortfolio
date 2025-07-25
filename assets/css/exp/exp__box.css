@@ -15,7 +15,11 @@
 .experiencie__box:nth-child(17),
 .experiencie__box:nth-child(19),
 .experiencie__box:nth-child(21),
-.experiencie__box:nth-child(23) {
+.experiencie__box:nth-child(23),
+.experiencie__box:nth-child(25),
+.experiencie__box:nth-child(27),
+.experiencie__box:nth-child(29),
+.experiencie__box:nth-child(31) {
     flex-direction: row-reverse;
 }
 
